@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.topnav {
+    background-color: tomato;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  #orienta{
+      float: right;
+      margin-right: 25px;
+  }
+  #photo1{
+      height: 300px;
+      width: 600px;
+      float: left;
+      margin-top: 25px;
+  }
+  div h1{
+      text-align: center;
+      margin-top: 30px;
+  }
+  div p{
+      margin-top: 50px;
+      font-size: 15px;
+      padding-right: 45px;
+      text-align: center;
+  }
+  footer{
+      clear: left;
+      background-color: tomato;
+      margin-top: 170px;
+      height: 156px;
+  }
+  footer h5{
+      text-align: center;
+      padding-top: 15px;
+  }
